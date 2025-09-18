@@ -7,23 +7,32 @@
   font-family: "Valorant";
 }
 
+body {
+  display: flex;
+  background-color: #f83e53;
+}
+
+.divider {
+  padding-left: 100px;
+}
+
 h1 {
   font-size: 50px;
   color: #eeebe5;
 }
 
 span {
-    font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
   color: #eeebe5;
 }
 
-img{
-    height:600px;
+img {
+  height: 600px;
 }
 
-.right-side{
-    position: absolute;
-    left: 550px;
-    top: 1px;
+.right-side {
+  position: absolute;
+  left: 550px;
+  top: 1px;
 }
